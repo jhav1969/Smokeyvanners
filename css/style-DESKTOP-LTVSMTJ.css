@@ -1,0 +1,66 @@
+
+body {
+ 
+  background-color: #140f0a;
+  
+  }
+
+
+p {
+margin: 0;
+
+}
+h1,h2,h3 {
+  margin: 0;
+  
+  }
+  /* main */
+
+  .headermain{
+    background-image: url(../img/header-footer/smook-hope-header.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1vh;
+    height: 25vh;
+  }
+  
+  
+  .footermain{
+    background-image: url(../img/header-footer/noaolffooter.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vh;
+    padding-top: 1vh;
+  }
+
+   /* smokey */
+
+  .headersmokey{
+    background-image: url(../img/header-footer/smook-hope-header.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1vh;
+    height: 25vh;
+  }
+  
+  
+  .footersmokey{
+    background-image: url(../img/header-footer/smook-hope-header2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vh;
+    padding-top: 1vh;
+  }
+
+  .construction{
+    background-image: url(../img/construction-coming-soon-spot-light-background_1017-25511.avif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    padding-top: 1vh;
+  }

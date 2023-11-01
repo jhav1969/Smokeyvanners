@@ -14,19 +14,24 @@ h1,h2,h3 {
   margin: 0;
   
   }
+  .boven {
+    color: white;
+
+  }
   /* main */
 
   .headermain{
-    background-image: url(../img/fayesmookheader.jpg);
+    background-image: url(../img/header-footer/smook-hope-header.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 20vh;
+    padding-top: 1vh;
+    height: 25vh;
   }
   
   
   .footermain{
-    background-image: url(../img/noaolffooter.jpg);
+    background-image: url(../img/header-footer/noaolffooter.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,16 +42,18 @@ h1,h2,h3 {
    /* smokey */
 
   .headersmokey{
-    background-image: url(../img/smook-hope-header2.jpg);
+    background-image: url(../img/header-footer/smook-hope-header.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 20vh;
+    padding-top: 1vh;
+    height: 25vh;
   }
   
   
+  
   .footersmokey{
-    background-image: url(../img/smook-hope-header.jpg);
+    background-image: url(../img/header-footer/smook-hope-header2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
